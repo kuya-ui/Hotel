@@ -1,0 +1,135 @@
+*{
+    padding: 0;
+   margin: 0;
+}
+.nav{
+    background-color:brown;
+    height: 100vh;
+}
+.main-flex{
+    display: flex;
+
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.top{
+    height: 10vh;
+    width: 100%;
+    
+}
+.list{
+    list-style: none;
+    align-content: flex-end;
+}
+.menu{
+    
+    align-items: end;
+}
+.world{
+    width: 100%;
+    height: 70vh;
+    position: relative;
+    top: 0;
+    left: 0;
+
+}
+.image{
+    background-image: url(./images/olexandr-ignatov-w72a24brINI-unsplash.jpg);
+    background-size: cover;
+    background-position: center 100%;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 90vh;
+    margin-left: 20%;
+    justify-content: end;
+    align-content: end;
+    align-items: end;
+}
+.hero{
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    z-index: 1;
+}
+.button{
+    background-color: coral;
+    color: white;
+}
+.middle{
+    font-weight: 700;
+    font-size: 80px;
+    color: white;
+}
+.middle #para{
+    font-size: 16px;
+    font-weight: 500;
+}
+.about{
+    padding: 2px;
+}
+.position{
+    
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 30px auto 0;
+    background-color: whitesmoke;
+}
+.image2{
+    position: relative;
+    top: 0;
+    left: 0;
+
+}
+.cool{
+    position: absolute;
+    top: 50%;
+    left: 250px;
+    z-index: 1;
+}
+.para{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    padding-left: 150px;
+    
+}
+.para1{
+    color: brown;
+    
+    font-size: 50px;
+}
+.mini{
+    color: black;
+    opacity: 0.5;
+}
+.down{
+    background-color: brown;
+    color: white;
+    
+}
+.rare{
+    background-color: brown;
+    height: 90vh; 
+}
+
+.power{
+    margin: 20px;
+    height: 50vh;
+    width: 98%;
+    border-left: 1px solid;
+}
+.power h2{
+    color: coral;
+}
+.four{
+    width: 55%;
+    margin: 80px 50px;
+}
+
+.two{
+    margin: 30px 0px;
+}
