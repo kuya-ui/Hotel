@@ -12,20 +12,32 @@
 }
 a{
     text-decoration: none;
-    color:black;
+    color: white;
 }
 .top{
     height: 10vh;
-    width: 100%;
-    
+    width: 100%;    
 }
 .list{
     list-style: none;
-    align-content: flex-end;
+    margin: 20px 30px;
+    
+}
+.five{
+    width: 50%;
+}
+.space{
+    margin: 0px 25px;
+    
 }
 .menu{
-    
-    align-items: end;
+    width: 50%;
+    margin-left: 1rem;
+}
+.star{
+    height: 40px;
+    width: 80px;
+    margin: -10px;
 }
 .world{
     width: 100%;
@@ -56,6 +68,17 @@ a{
 .button{
     background-color: coral;
     color: white;
+}
+.uuu{
+    border: transparent;
+}
+.start{
+    height: 50px;
+    width: 100px;
+    border: transparent;
+}
+.ttt{
+    margin: 30px;
 }
 .middle{
     font-weight: 700;
@@ -99,8 +122,15 @@ a{
 }
 .para1{
     color: brown;
-    
     font-size: 50px;
+}
+.sss{
+    margin: 30px;
+}
+.www{
+    height: 50px;
+    width: 100px;
+    border: transparent;
 }
 .mini{
     color: black;
@@ -115,7 +145,14 @@ a{
     background-color: brown;
     height: 90vh; 
 }
-
+.xxx{
+    margin: 30px;
+}
+.zzz{
+    height: 25px;
+    width: 80px;
+    border: transparent;
+}
 .power{
     margin: 20px;
     height: 50vh;
@@ -132,4 +169,12 @@ a{
 
 .two{
     margin: 30px 0px;
+}
+.yyy{
+    margin: 0px;
+}
+.jjj{
+    weight: 800px;
+    height: 40px;
+    border: transparent;
 }
