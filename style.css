@@ -180,7 +180,7 @@ a{
 }
 .footer{
     height: 70vh;
-    border: 1px solid;
+    border: transparent;
     margin: 10px 0px;
     border-radius: 0px 0px 10px 10px;
     background-color: rgba(241, 222, 187, 0.473);
